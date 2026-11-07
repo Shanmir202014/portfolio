@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shanmir202014.github.io/portfolio/sitemap.xml
